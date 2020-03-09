@@ -1,0 +1,397 @@
+[
+  {
+    "id": "01",
+    "name": "Abarth",
+    "slug": "abarth"
+  },
+  {
+    "id": "02",
+    "name": "Alfa Romeo",
+    "slug": "alfa-romeo"
+  },
+  {
+    "id": "03",
+    "name": "Aro",
+    "slug": "aro"
+  },
+  {
+    "id": "04",
+    "name": "Asia",
+    "slug": "asia"
+  },
+  {
+    "id": "05",
+    "name": "Asia Motors",
+    "slug": "asia-motors"
+  },
+  {
+    "id": "06",
+    "name": "Aston Martin",
+    "slug": "aston-martin"
+  },
+  {
+    "id": "07",
+    "name": "Audi",
+    "slug": "audi"
+  },
+  {
+    "id": "08",
+    "name": "Austin",
+    "slug": "austin"
+  },
+  {
+    "id": "09",
+    "name": "Auverland",
+    "slug": "auverland"
+  },
+  {
+    "id": "10",
+    "name": "Bentley",
+    "slug": "bentley"
+  },
+  {
+    "id": "11",
+    "name": "Bertone",
+    "slug": "bertone"
+  },
+  {
+    "id": "12",
+    "name": "Bmw",
+    "slug": "bmw"
+  },
+  {
+    "id": "13",
+    "name": "Cadillac",
+    "slug": "cadillac"
+  },
+  {
+    "id": "14",
+    "name": "Chevrolet",
+    "slug": "chevrolet"
+  },
+  {
+    "id": "15",
+    "name": "Chrysler",
+    "slug": "chrysler"
+  },
+  {
+    "id": "16",
+    "name": "Citroen",
+    "slug": "citroen"
+  },
+  {
+    "id": "17",
+    "name": "Corvette",
+    "slug": "corvette"
+  },
+  {
+    "id": "18",
+    "name": "Dacia",
+    "slug": "dacia"
+  },
+  {
+    "id": "19",
+    "name": "Daewoo",
+    "slug": "daewoo"
+  },
+  {
+    "id": "20",
+    "name": "Daf",
+    "slug": "daf"
+  },
+  {
+    "id": "21",
+    "name": "Daihatsu",
+    "slug": "daihatsu"
+  },
+  {
+    "id": "22",
+    "name": "Daimler",
+    "slug": "daimler"
+  },
+  {
+    "id": "23",
+    "name": "Dodge",
+    "slug": "dodge"
+  },
+  {
+    "id": "24",
+    "name": "Ferrari",
+    "slug": "ferrari"
+  },
+  {
+    "id": "25",
+    "name": "Fiat",
+    "slug": "fiat"
+  },
+  {
+    "id": "26",
+    "name": "Ford",
+    "slug": "ford"
+  },
+  {
+    "id": "27",
+    "name": "Galloper",
+    "slug": "galloper"
+  },
+  {
+    "id": "28",
+    "name": "Gmc",
+    "slug": "gmc"
+  },
+  {
+    "id": "29",
+    "name": "Honda",
+    "slug": "honda"
+  },
+  {
+    "id": "30",
+    "name": "Hummer",
+    "slug": "hummer"
+  },
+  {
+    "id": "31",
+    "name": "Hyundai",
+    "slug": "hyundai"
+  },
+  {
+    "id": "32",
+    "name": "Infiniti",
+    "slug": "infiniti"
+  },
+  {
+    "id": "33",
+    "name": "Innocenti",
+    "slug": "innocenti"
+  },
+  {
+    "id": "34",
+    "name": "Isuzu",
+    "slug": "isuzu"
+  },
+  {
+    "id": "35",
+    "name": "Iveco",
+    "slug": "iveco"
+  },
+  {
+    "id": "36",
+    "name": "Iveco-pegaso",
+    "slug": "iveco-pegaso"
+  },
+  {
+    "id": "37",
+    "name": "Jaguar",
+    "slug": "jaguar"
+  },
+  {
+    "id": "38",
+    "name": "Jeep",
+    "slug": "jeep"
+  },
+  {
+    "id": "39",
+    "name": "Kia",
+    "slug": "kia"
+  },
+  {
+    "id": "40",
+    "name": "Lada",
+    "slug": "lada"
+  },
+  {
+    "id": "41",
+    "name": "Lamborghini",
+    "slug": "lamborghini"
+  },
+  {
+    "id": "42",
+    "name": "Lancia",
+    "slug": "lancia"
+  },
+  {
+    "id": "43",
+    "name": "Land-rover",
+    "slug": "land-rover"
+  },
+  {
+    "id": "44",
+    "name": "Ldv",
+    "slug": "ldv"
+  },
+  {
+    "id": "45",
+    "name": "Lexus",
+    "slug": "lexus"
+  },
+  {
+    "id": "46",
+    "name": "Lotus",
+    "slug": "lotus"
+  },
+  {
+    "id": "47",
+    "name": "Mahindra",
+    "slug": "mahindra"
+  },
+  {
+    "id": "48",
+    "name": "Maserati",
+    "slug": "maserati"
+  },
+  {
+    "id": "49",
+    "name": "Maybach",
+    "slug": "maybach"
+  },
+  {
+    "id": "50",
+    "name": "Mazda",
+    "slug": "mazda"
+  },
+  {
+    "id": "51",
+    "name": "Mercedes-benz",
+    "slug": "mercedes-benz"
+  },
+  {
+    "id": "52",
+    "name": "Mg",
+    "slug": "mg"
+  },
+  {
+    "id": "53",
+    "name": "Mini",
+    "slug": "mini"
+  },
+  {
+    "id": "54",
+    "name": "Mitsubishi",
+    "slug": "mitsubishi"
+  },
+  {
+    "id": "55",
+    "name": "Morgan",
+    "slug": "morgan"
+  },
+  {
+    "id": "56",
+    "name": "Nissan",
+    "slug": "nissan"
+  },
+  {
+    "id": "57",
+    "name": "Opel",
+    "slug": "opel"
+  },
+  {
+    "id": "58",
+    "name": "Peugeot",
+    "slug": "peugeot"
+  },
+  {
+    "id": "59",
+    "name": "Pontiac",
+    "slug": "pontiac"
+  },
+  {
+    "id": "60",
+    "name": "Porsche",
+    "slug": "porsche"
+  },
+  {
+    "id": "61",
+    "name": "Renault",
+    "slug": "renault"
+  },
+  {
+    "id": "62",
+    "name": "Rolls-royce",
+    "slug": "rolls-royce"
+  },
+  {
+    "id": "63",
+    "name": "Rover",
+    "slug": "rover"
+  },
+  {
+    "id": "64",
+    "name": "Saab",
+    "slug": "saab"
+  },
+  {
+    "id": "65",
+    "name": "Santana",
+    "slug": "santana"
+  },
+  {
+    "id": "66",
+    "name": "Seat",
+    "slug": "seat"
+  },
+  {
+    "id": "67",
+    "name": "Skoda",
+    "slug": "skoda"
+  },
+  {
+    "id": "68",
+    "name": "Smart",
+    "slug": "smart"
+  },
+  {
+    "id": "69",
+    "name": "Ssangyong",
+    "slug": "ssangyong"
+  },
+  {
+    "id": "70",
+    "name": "Subaru",
+    "slug": "subaru"
+  },
+  {
+    "id": "71",
+    "name": "Suzuki",
+    "slug": "suzuki"
+  },
+  {
+    "id": "72",
+    "name": "Talbot",
+    "slug": "talbot"
+  },
+  {
+    "id": "73",
+    "name": "Tata",
+    "slug": "tata"
+  },
+  {
+    "id": "74",
+    "name": "Toyota",
+    "slug": "toyota"
+  },
+  {
+    "id": "75",
+    "name": "Umm",
+    "slug": "umm"
+  },
+  {
+    "id": "76",
+    "name": "Vaz",
+    "slug": "vaz"
+  },
+  {
+    "id": "77",
+    "name": "Volkswagen",
+    "slug": "volkswagen"
+  },
+  {
+    "id": "78",
+    "name": "Volvo",
+    "slug": "volvo"
+  },
+  {
+    "id": "79",
+    "name": "Wartburg",
+    "slug": "wartburg"
+  }
+]

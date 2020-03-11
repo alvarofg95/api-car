@@ -2,7 +2,8 @@
   {
     "id": "01",
     "name": "Abarth",
-    "slug": "abarth"
+    "slug": "abarth",
+    "image": "../public/media/abarth.png"
   },
   {
     "id": "02",

@@ -1,5 +1,6 @@
 import express from 'express';
 import bodyParser from 'body-parser';
+import fs from 'fs';
 import dotenv from 'dotenv';
 import brands from './utils/brands.json';
 import models from './utils/models.json';
@@ -37,3 +38,14 @@ app.get('/cars/models/:brand', (req, res) => {
     res.status(411).json('No hemos recibido ninguna marca');
   }
 });
+
+app.get('/media/:brand', (req, res) => {
+  // const { params: { brand } } = req;
+  const brand = 'abarth.png';
+  if (brand) {
+    fs.readFile(`./media/${brand}`, 'base64', (err, base64Image) => {
+      const dataURL = `data:image/png;base64, ${base64Image}`;
+      return res.send(`<img src="${dataURL}`);
+    })
+  }
+})

@@ -25,11 +25,14 @@ app.get('/cars/brands', (req, res) => {
 });
 
 app.get('/cars/models/:brand', (req, res) => {
-  const { params: { brand } } = req;
+  const {
+    params: { brand }
+  } = req;
   if (brand) {
-    const brandModelsIndex = models.findIndex(item => item.brand === brand);
-    if (brandModelsIndex > -1) {
-      const brandModels = models[brandModelsIndex].models;
+    const brandModels = models
+      .filter(item => item.brand_id === brand)
+      .map(item => ({ name: item.name, id: item.id, slug: item.slug }));
+    if (brandModels && brandModels.length > 0) {
       res.status(200).json(brandModels);
     } else {
       res.status(410).json('No existen modelos para esa marca de coches');
@@ -46,6 +49,6 @@ app.get('/media/:brand', (req, res) => {
     fs.readFile(`./media/${brand}`, 'base64', (err, base64Image) => {
       const dataURL = `data:image/png;base64, ${base64Image}`;
       return res.send(`<img src="${dataURL}`);
-    })
+    });
   }
-})
+});
